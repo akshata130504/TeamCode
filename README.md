@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 # AikNet
-=======
->>>>>>> c0ce5e3 (Initial commit)
+
 # ⚡AikNet - AI Assisted Code Editor with Real-Time Collaboration
 
 ## Overview
