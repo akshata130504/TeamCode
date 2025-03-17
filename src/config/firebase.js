@@ -5,15 +5,14 @@ import { getDatabase } from "firebase/database";  // ✅ Import Realtime Databas
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBVkmCd332D7vXCIwhiaOte7p0ZgxcYmYE",
-  authDomain: "haxplore-dafe9.firebaseapp.com",
-  projectId: "haxplore-dafe9",
-  storageBucket: "haxplore-dafe9.appspot.com",
-  messagingSenderId: "959959551696",
-  appId: "1:959959551696:web:03283efe883e292d1958d5",
-  measurementId: "G-NYTWFDNKST"
+    apiKey: "YOUR_API_KEY",
+    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+    projectId: "YOUR_PROJECT_ID",
+    storageBucket: "YOUR_PROJECT_ID.appspot.com",
+    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+    appId: "YOUR_APP_ID",
+    measurementId: "YOUR_MEASUREMENT_ID"
 };
-
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
